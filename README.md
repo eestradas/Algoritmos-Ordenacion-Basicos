@@ -1,6 +1,4 @@
-# Generic-sorting-algorithms
-Java implementations of the most popular sorting algorithms: Selection, Insertion, Bubble, CombSort, and HeapSort. Includes explanations, time complexity, and usage examples for each algorithm.
-# 🧮 Algoritmos de Ordenación Básicos
+# 🧮 Generic-sorting-algorithms
 
 Este repositorio contiene implementaciones **claras, comentadas y educativas** de varios algoritmos clásicos de ordenación en Java.  
 El objetivo es ofrecer un recurso de referencia para estudiantes y desarrolladores que quieran entender el funcionamiento interno de los principales métodos de ordenación.
