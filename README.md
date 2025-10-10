@@ -1,7 +1,6 @@
 # 🧮 Algoritmos de Ordenación Básicos
 
-Este repositorio contiene implementaciones **claras, comentadas y educativas** de varios algoritmos clásicos de ordenación en Java. Incluye explicaciones, complejidad temporal y ejemplos de uso para cada algoritmo.
-El objetivo es ofrecer un recurso de referencia para estudiantes y desarrolladores que quieran entender el funcionamiento interno de los principales métodos de ordenación.
+Este repositorio contiene implementaciones de varios algoritmos clásicos de ordenación en Java. Incluye explicaciones, complejidad temporal y ejemplos de uso para cada algoritmo.
 
 ---
 
