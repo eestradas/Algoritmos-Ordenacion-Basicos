@@ -8,13 +8,13 @@ Este repositorio contiene implementaciones de varios algoritmos clásicos de ord
 
 Los algoritmos incluidos son:
 
-| Algoritmo               | Complejidad Promedio | Complejidad Peor Caso | Tipo de Método     | Estable |
-|--------------------------|----------------------|------------------------|--------------------|----------|
-| **Selección (Selection Sort)** | O(n²)               | O(n²)                 | Comparativo        | ❌ |
-| **Inserción (Insertion Sort)** | O(n²)               | O(n²)                 | Comparativo        | ✅ |
-| **Burbuja (Bubble Sort)**      | O(n²)               | O(n²)                 | Comparativo        | ✅ |
-| **CombSort**                   | O(n log n) aprox.   | O(n²)                 | Comparativo        | ❌ |
-| **HeapSort**                   | O(n log n)          | O(n log n)            | Basado en montículo| ❌ |
+| Algoritmo                      | Complejidad Mejor | Complejidad Promedio | Complejidad Peor Caso | Tipo de Método     | Estable |
+|------------------------------- | ------------------|----------------------|------------------------|--------------------|----------|
+| **Selección (Selection Sort)** | O(n²)             | O(n²)                | O(n²)                 | Comparativo        | ❌ |
+| **Inserción (Insertion Sort)** | O(n)              | O(n²)                | O(n²)                 | Comparativo        | ✅ |
+| **Burbuja (Bubble Sort)**      | O(n)              | O(n²)                | O(n²)                 | Comparativo        | ✅ |
+| **CombSort**                   | O(n)              | O(n²)                | O(n²)                 | Comparativo        | ❌ |
+| **HeapSort**                   | O(n log n)        | O(n log n)           | O(n log n)            | Basado en montículo| ❌ |
 
 ---
 
